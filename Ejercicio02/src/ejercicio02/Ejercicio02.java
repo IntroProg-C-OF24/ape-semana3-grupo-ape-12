@@ -7,7 +7,7 @@ public class Ejercicio02 {
         double respuesta;
         respuesta = Math.pow(var1,2) + var2;
         System.out.println("La respuesta es: " + respuesta);
-        //Autor Manuel Gomez
+        //Autor Manuel Gomez.
                 
     }
     
