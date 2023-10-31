@@ -1,7 +1,7 @@
 package ejercicio08;
 public class Ejercicio08 {
     public static void main(String[] args) {
-        // Resolucion del Ejercicio
+        // Resolución del Ejercicio
         int var1 = 10;
         int var2 = 9;
         int var3 = 20;
